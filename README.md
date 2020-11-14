@@ -23,7 +23,7 @@ Advanced Chat View For all the chatting or texting applications out there !! üê
 
 ## License 
 ```
-   Copyright 2020 arya tyagi
+   Copyright (C) 2020 arya tyagi
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
